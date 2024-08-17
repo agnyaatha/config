@@ -1,0 +1,11 @@
+app-build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazybank accounts related local APIs"
+  contactDetails:
+    name: "Chethan - Dev"
+    email: "chethan@mail.com"
+  onCallSupport:
+      - (555) 555-1234
+      - (555) 523-1234

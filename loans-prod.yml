@@ -1,0 +1,11 @@
+app-build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Eazybank loans related prod APIs"
+  contactDetails:
+    name: "Chethan - Loans Product Owner"
+    email: "chethan-loans@example.com"
+  onCallSupport:
+      - (555) 555-1234
+      - (555) 523-1234

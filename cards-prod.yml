@@ -1,0 +1,11 @@
+app-build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Eazybank cards related prod APIs"
+  contactDetails:
+    name: "Chethan - Card Product Owner"
+    email: "chethan-cards@example.com"
+  onCallSupport:
+      - (555) 555-1234
+      - (555) 523-1234
